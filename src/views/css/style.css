@@ -1,0 +1,22 @@
+.myLabelCategory {
+    -fx-font-weight: bold;
+}
+
+
+TextField {
+    -fx-background-color: #9e9e9e;
+}
+
+.myTitre {
+    -fx-font-size: 50px;
+}
+
+.myTitlelLabel {
+    -fx-font-size: 20px;
+}
+
+.list-cell { 
+    -fx-font-size: 13px;
+    -fx-text-fill: #333333;
+}
+

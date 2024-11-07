@@ -1,0 +1,38 @@
+==== CONFIGS ====		
+{
+    "base_path": "d:\\320E1\\320-e1-ornithologie-with-abstract-mauronj01",
+    "out": "d:\\320E1\\320-e1-ornithologie-with-abstract-mauronj01\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Java\\jdk-17\\bin\\javadoc.exe",
+    "exclude": [
+        "formatterNomOiseauTest.java"
+    ],
+}
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-17\bin\javadoc.exe" 
+	-sourcepath "d:\320E1\320-e1-ornithologie-with-abstract-mauronj01" 
+	-d "d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\javadoc" 
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\app\Application.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\ctrl\Controller.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\ctrl\IControllerForView.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\Caracteristiques.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\CriteresIdentification.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\Espece.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\EspeceDetail.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\IEspeceInfo.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\ImageSource.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\Observation.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\ObservationBase.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\Population.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\models\StatutDeMenace.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceChargementEspeces.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceFormatageDate.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceFormatageNomOiseau.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceIndexationEspeces.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceIndexationObservations.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceJournalObservations.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\services\ServiceTriEspeces.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\views\IViewForController.java"
+	"d:\320E1\320-e1-ornithologie-with-abstract-mauronj01\src\views\View.java"
+
+
