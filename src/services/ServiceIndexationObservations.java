@@ -21,7 +21,10 @@ public class ServiceIndexationObservations {
         hashObservationParDate = new HashMap<LocalDate, ArrayList<Observation>>();
         hashObservationDateEtNom = new HashMap<String, HashMap<LocalDate, ArrayList<Observation>>>();
     }
-
+/**
+ * 
+ * @param listObservations
+ */
     /**
      * Indexe la liste des observations afin que les observations puissent être
      * retrouvées très rapidement, ceci par nom commun, par date, et par nom commun
